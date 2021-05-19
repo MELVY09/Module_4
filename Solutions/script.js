@@ -50,8 +50,6 @@ WARNING!!! WARNING!!!
       helloSpeaker.speak(names[i]);
     }
   }
-    
-  window.names = names;
 })(window)
 
 
